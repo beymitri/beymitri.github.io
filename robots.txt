@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beymitri.github.io/sitemap
+Sitemap: https://beymitri.github.io/app/sitemap
+Sitemap: https://beymitri.github.io/assets/sitemap
+Sitemap: https://beymitri.github.io/css/sitemap
+Sitemap: https://beymitri.github.io/includes/sitemap
+Sitemap: https://beymitri.github.io/item/sitemap
+Sitemap: https://beymitri.github.io/src/sitemap
